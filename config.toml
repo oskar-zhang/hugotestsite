@@ -1,0 +1,4 @@
+title = "My New Hugo Site"
+languageCode = "en-us"
+baseurl = "https://oskarsforest.github.io/hugotestsite"
+canonifyurls = true
